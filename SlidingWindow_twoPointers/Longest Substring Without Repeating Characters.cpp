@@ -53,3 +53,5 @@ public:
         return ans;
     }
 };
+//TC: O(n)
+//SC: O(different characters number)
